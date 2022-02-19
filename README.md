@@ -4,4 +4,4 @@ P1. Common Modulus Attack
 
 P2. Wiener Attack.
 
-P3. Keyless decryption.
+P3. Keyless decipher.
